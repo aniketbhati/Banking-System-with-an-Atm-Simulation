@@ -83,11 +83,10 @@ void displayAdminMenu() {
 void displayUserMenu() {
     cout << "\n\t\tUser Menu" << endl;
     cout << "\t\t---------" << endl;
-    cout << "1. Open a new account" << endl;
-    cout << "2. Deposit funds" << endl;
-    cout << "3. Withdraw funds" << endl;
-    cout << "4. Check balance" << endl;
-    cout << "5. Main Menu" << endl;
+    cout << "1. Deposit funds" << endl;
+    cout << "2. Withdraw funds" << endl;
+    cout << "3. Check balance" << endl;
+    cout << "4. Main Menu" << endl;
     cout << "Enter your choice: ";
 }
 
